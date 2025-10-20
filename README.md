@@ -3,7 +3,7 @@
 
   **`Studying Bsc Computer Science & Artificial Intelligence `**
   **`Teesside University Student`**
-  **`Passionate about Machine Learning, and AI Development`**
+
 
 
 <hr>
