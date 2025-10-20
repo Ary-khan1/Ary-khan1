@@ -1,7 +1,8 @@
 # Aryan Khan
 
 
-  **`Computer Science & Artificial Intelligence Student`**
+  **`Studying Bsc Computer Science & Artificial Intelligence `**
+  **`Teesside University Student`**
   **`Passionate about Machine Learning, and AI Development`**
 
 
