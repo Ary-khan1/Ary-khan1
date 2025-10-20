@@ -1,6 +1,6 @@
-#Aryan Khan
-**Computer Science & Artificial Intelligence Student
-**Passionate about Machine Learning, and AI Development 
+# Aryan Khan
+** Computer Science & Artificial Intelligence Student
+** Passionate about Machine Learning, and AI Development 
 
 
 <hr>
