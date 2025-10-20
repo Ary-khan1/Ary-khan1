@@ -26,9 +26,8 @@ At Teesside University, I am a motivated student studying computer science and a
 ## Projects
 ### Self Driving Formula Car
 <p>Analyzed and programmed intelligent software for a Formula car to make autonomous decisions.</p>
-<p align="center">
-  <img src="https://www.tees.ac.uk/Images/CommonImages/publication_photos/release_photos/main/8517.jpg" alt="Formula Car" width="400" style="border: 2px solid black; border-radius: 8px;">
-</p>
+  <img src="https://www.tees.ac.uk/Images/CommonImages/publication_photos/release_photos/main/8517.jpg" alt="Formula Car" width="400";">
+
 
 
 <br/>
