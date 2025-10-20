@@ -28,7 +28,7 @@
 
 </div>
 
-<p>Data Structures, Algorithms, Object Oriented Programming</p>
+
 
 
 
