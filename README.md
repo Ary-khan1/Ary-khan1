@@ -24,21 +24,21 @@ At Teesside University, I am a motivated student studying computer science and a
  <br/>
 
 
-## Projects
+<h2> Projects</h2>
 
 <table>
   <tr>
     <!-- Project 1 -->
-    <td style="border: 1px solid #ccc; padding: 15px; vertical-align: top; width: 50%; text-align: center;">
+    <td width="50%" style="vertical-align: top; padding: 10px;">
       <h3>🧠 Self-Driving Formula Car</h3>
-      <img src="https://via.placeholder.com/250x150?text=Formula+Car+Project" alt="Self-Driving Car" style="width: 100%; border-radius: 8px; margin-bottom: 10px;">
+      <img src="https://via.placeholder.com/250x150?text=Formula+Car+Project" alt="Self-Driving Car" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
       <p>Analyzed and programmed intelligent software for a Formula car to make autonomous decisions.</p>
     </td>
 
     <!-- Project 2 -->
-    <td style="border: 1px solid #ccc; padding: 15px; vertical-align: top; width: 50%; text-align: center;">
+    <td width="50%" style="vertical-align: top; padding: 10px;">
       <h3>🔐 Safety Detection App</h3>
-      <img src="https://via.placeholder.com/250x150?text=Safety+App" alt="Safety App" style="width: 100%; border-radius: 8px; margin-bottom: 10px;">
+      <img src="https://via.placeholder.com/250x150?text=Safety+App" alt="Safety App" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
       <p>Designed a mobile app that safeguards devices and secures internal files against unauthorized access.</p>
     </td>
   </tr>
