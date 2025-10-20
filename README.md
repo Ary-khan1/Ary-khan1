@@ -25,14 +25,14 @@ At Teesside University, I am a motivated student studying computer science and a
 
 
 ## Projects
-### Prject 1
+### Self Driving Formula Car
 <img src="https://via.placeholder.com/250x150?text=Formula+Car+Project" alt="Self-Driving Car" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
 <p> 
 
 </p>
 <br/>
 
-### Project 2
+### Safety Detection App
 <img src="https://via.placeholder.com/250x150?text=Safety+App" alt="Safety App" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
 <p>
  
