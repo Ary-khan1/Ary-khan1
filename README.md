@@ -24,7 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/brackets/brackets-original.svg" alt="Brackets" width="30"/>
+  <img src="[https://img.icons8.com/ios-filled/50/code.png](https://files.svgcdn.io/logos/brackets.png)" alt="Brackets" width="30"/>
+
 </div>
 
 <p>Data Structures, Algorithms, Object Oriented Programming</p>
