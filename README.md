@@ -33,10 +33,11 @@ At Teesside University, I am a motivated student studying computer science and a
 ## Let's Connect
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
-    <a href="https://www.linkedin.com/in/aryan-khan-a0183526b/" target="_blank">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/aryan-khan-a0183526b/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
   </li>
   <li>Email: aryankhan78@hotmail.com</li>
 </ul>
+
 
 
 <hr>
