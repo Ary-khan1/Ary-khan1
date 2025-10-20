@@ -26,18 +26,10 @@ At Teesside University, I am a motivated student studying computer science and a
 ## Projects
 ### Self Driving Formula Car
 <p>Analyzed and programmed intelligent software for a Formula car to make autonomous decisions.</p>
-  <img src="https://www.tees.ac.uk/Images/CommonImages/publication_photos/release_photos/main/8517.jpg" alt="Formula Car" width="400";">
-
-
-
-<br/>
+ <br/>
 
 ### Safety Detection App
-<img src="https://liveteesac-my.sharepoint.com/my?viewid=8d1daa99%2D6235%2D4910%2Dbf65%2D970dd263244f&id=%2Fpersonal%2Fq2590504%5Flive%5Ftees%5Fac%5Fuk%2FDocuments%2F2025%20%2D%20Second%20Semester%2FSystem%20Design%20and%20Databases%2FProject%2FPictures%20of%20the%20Project%2FWireframes%20Draft%2FWelcome%20and%20Login%2Epng&parent=%2Fpersonal%2Fq2590504%5Flive%5Ftees%5Fac%5Fuk%2FDocuments%2F2025%20%2D%20Second%20Semester%2FSystem%20Design%20and%20Databases%2FProject%2FPictures%20of%20the%20Project%2FWireframes%20Draft" alt="Safety App" width="30%" style="border-radius: 8px; margin-bottom: 10px;">
-
-<p>
- 
-</p>
+<p> Designed a mobile app that safeguards devices and secures internal files against unauthorized access.</p>
 <br/>
 
 
