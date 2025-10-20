@@ -7,9 +7,7 @@
 
 
 <p>
-
-
- 
+At Teesside University, I am a motivated student studying computer science and artificial intelligence. I have a solid background in information technology.  I have real-world experience using A.I. models to solve problems in a self-driving car project.  I'm excited to investigate how data, automation, and clever algorithms may influence technology in the future.  In the fields of computer science and artificial intelligence, I hope to share my projects, work with other developers, and develop further as a creative problem-solver on GitHub.
 </p>
 
 
