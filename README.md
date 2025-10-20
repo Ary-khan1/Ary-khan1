@@ -21,14 +21,7 @@ At Teesside University, I am a motivated student studying computer science and a
   <img align="left"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="30"/>
   <img align="left"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="30"/>
   <img align="left"  style="padding-right:10px;"  src="https://files.svgcdn.io/logos/brackets.png" alt="Brackets" width="30"/>
-
-
-
-
-
-
-
-
+ <br/>
 
 
 ## Projects
