@@ -6,16 +6,13 @@
 
 
 
-<hr>
+<p>
 
-<h2> About Me</h2>
-<ul>
-  <li> Currently pursuing a Bsc Degree in Computer Science & Artificial Intelligence</li>
-  <li> Exploring fields in Computer Science and A.I</li>
-  <li> I love discussing Tech, Research Papers, and Futuristic Ideas</li>
-  <li> Always learning — currently diving into <strong>Data Analysing </strong></li>
-  <li> Building projects that blend creativity and computation</li>
-</ul>
+
+ 
+</p>
+
+
 
 <h2>Skills & Tools</h2>
 
