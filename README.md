@@ -31,7 +31,7 @@ At Teesside University, I am a motivated student studying computer science and a
 
 
 
-<h2> Projects</h2>
+## Projects
 <ul>
   <li><strong>Self Driving Formula Car Project: </strong> Analysing and Programming Formula Car Software to make independent Decisions </li>
   <li><strong>Safety Detection App:</strong> Desgined an app which safegaurds and ensures security of devices and files within</li>
