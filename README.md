@@ -1,7 +1,6 @@
 <h1 align="center"> Aryan Khan</h1>
 <p align="center">
     Computer Science & Artificial Intelligence Student <br>
-    Based in Teesside University <br>
     Passionate about Machine Learning, and AI Development 
 </p>
 
