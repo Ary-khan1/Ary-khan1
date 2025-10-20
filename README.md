@@ -1,8 +1,7 @@
-<h1 align="center"> Aryan Khan</h1>
-<p align="center">
-    Computer Science & Artificial Intelligence Student <br>
-    Passionate about Machine Learning, and AI Development 
-</p>
+#Aryan Khan
+**Computer Science & Artificial Intelligence Student
+**Passionate about Machine Learning, and AI Development 
+
 
 <hr>
 
