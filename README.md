@@ -26,23 +26,24 @@ At Teesside University, I am a motivated student studying computer science and a
 
 ## Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<table>
+  <tr>
+    <!-- Project 1 -->
+    <td style="border: 1px solid #ccc; padding: 15px; vertical-align: top; text-align: center;">
+      <h3>🧠 Self-Driving Formula Car</h3>
+      <img src="https://via.placeholder.com/250x150?text=Formula+Car+Project" alt="Self-Driving Car" style="width: 100%; border-radius: 8px; margin-bottom: 10px;">
+      <p>Analyzed and programmed intelligent software for a Formula car to make autonomous decisions.</p>
+    </td>
 
-  <!-- Project 1 -->
-  <div style="flex: 1; min-width: 300px; border: 1px solid #ccc; border-radius: 10px; padding: 15px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
-    <h3>🧠 Self-Driving Formula Car</h3>
-    <img src="https://via.placeholder.com/300x150?text=Formula+Car+Project" alt="Self-Driving Car" style="width: 100%; border-radius: 8px; margin-bottom: 10px;">
-    <p>Analyzed and programmed intelligent software for a Formula car to make autonomous decisions.</p>
-  </div>
+    <!-- Project 2 -->
+    <td style="border: 1px solid #ccc; padding: 15px; vertical-align: top; text-align: center;">
+      <h3>🔐 Safety Detection App</h3>
+      <img src="https://via.placeholder.com/250x150?text=Safety+App" alt="Safety App" style="width: 100%; border-radius: 8px; margin-bottom: 10px;">
+      <p>Designed a mobile app that safeguards devices and secures internal files against unauthorized access.</p>
+    </td>
+  </tr>
+</table>
 
-  <!-- Project 2 -->
-  <div style="flex: 1; min-width: 300px; border: 1px solid #ccc; border-radius: 10px; padding: 15px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
-    <h3>🔐 Safety Detection App</h3>
-    <img src="https://via.placeholder.com/300x150?text=Safety+App" alt="Safety App" style="width: 100%; border-radius: 8px; margin-bottom: 10px;">
-    <p>Designed a mobile app that safeguards devices and secures internal files against unauthorized access.</p>
-  </div>
-
-</div>
 
 
 ## Let's Connect
