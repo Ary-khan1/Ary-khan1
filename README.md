@@ -15,12 +15,22 @@
   <li> Building projects that blend creativity and computation</li>
 </ul>
 
-<h2> Skills & Tools</h2>
+<h2>Skills & Tools</h2>
 <ul>
-  <li><strong>Languages:</strong> Python, HTML, C++, Java</li>
-  <li><strong>Frameworks:</strong> Brackets, NetBeans IDE and Visual Studio</li>
+  <li><strong>Languages:</strong>
+    <i class="devicon-python-plain colored" title="Python"></i>
+    <i class="devicon-html5-plain colored" title="HTML"></i>
+    <i class="devicon-cplusplus-plain colored" title="C++"></i>
+    <i class="devicon-java-plain colored" title="Java"></i>
+  </li>
+  <li><strong>Frameworks:</strong>
+    <i class="devicon-visualstudio-plain colored" title="Visual Studio"></i>
+    <i class="devicon-netbeans-plain colored" title="NetBeans"></i>
+    <i class="fas fa-code" title="Brackets"></i>
+  </li>
   <li><strong>Concepts:</strong> Data Structures, Algorithms, Object Oriented Programming</li>
 </ul>
+
 
 <h2> Projects</h2>
 <ul>
