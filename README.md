@@ -24,27 +24,20 @@ At Teesside University, I am a motivated student studying computer science and a
  <br/>
 
 
-<h2> Projects</h2>
+## Projects
+### Prject 1
+<img src="https://via.placeholder.com/250x150?text=Formula+Car+Project" alt="Self-Driving Car" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
+<p> 
 
-<table>
-  <tr>
-    <!-- Project 1 -->
-    <td width="50%" style="vertical-align: top; padding: 10px;">
-      <h3>🧠 Self-Driving Formula Car</h3>
-      <img src="https://via.placeholder.com/250x150?text=Formula+Car+Project" alt="Self-Driving Car" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
-      <p>Analyzed and programmed intelligent software for a Formula car to make autonomous decisions.</p>
-    </td>
+</p>
+<br/>
 
-    <!-- Project 2 -->
-    <td width="50%" style="vertical-align: top; padding: 10px;">
-      <h3>🔐 Safety Detection App</h3>
-      <img src="https://via.placeholder.com/250x150?text=Safety+App" alt="Safety App" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
-      <p>Designed a mobile app that safeguards devices and secures internal files against unauthorized access.</p>
-    </td>
-  </tr>
-</table>
-
-
+### Project 2
+<img src="https://via.placeholder.com/250x150?text=Safety+App" alt="Safety App" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
+<p>
+ 
+</p>
+<br/>
 
 
 
