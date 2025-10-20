@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center"> Aryan Khan</h1>
+<p align="center">
+    Computer Science & Artificial Intelligence Student <br>
+    Based in Teesside University <br>
+    Passionate about Machine Learning, and AI Development 
+</p>
 
-<!--
-**Ary-khan1/Ary-khan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h2> About Me</h2>
+<ul>
+  <li> Currently pursuing a Bsc Degree in Computer Science & Artificial Intelligence</li>
+  <li> Exploring fields in Computer Science and A.I</li>
+  <li> I love discussing Tech, Research Papers, and Futuristic Ideas</li>
+  <li> Always learning — currently diving into <strong>Data Analysing </strong></li>
+  <li> Building projects that blend creativity and computation</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Skills & Tools</h2>
+<ul>
+  <li><strong>Languages:</strong> Python, HTML, C++, Java</li>
+  <li><strong>Frameworks:</strong> Brackets, NetBeans IDE and Visual Studio</li>
+  <li><strong>Concepts:</strong> Data Structures, Algorithms, Object Oriented Programming</li>
+</ul>
+
+<h2> Projects</h2>
+<ul>
+  <li><strong>Self Driving Formula Car Project: </strong> Analysing and Programming Formula Car Software to make independent Decisions </li>
+  <li><strong>Safety Detection App:</strong> Desgined an app which safegaurds and ensures security of devices and files within</li>
+</ul>
+
+<h2> Let's Connect</h2>
+<ul>
+  <li> <a [href="[https://www.linkedin.com/in/yourprofile](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faryan-khan-a0183526b%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app&data=05%7C02%7CQ2590504%40tees.ac.uk%7Cd5787073ef9e46c019ed08de0fc237ff%7C43d2115ba55e46b69df7b03388ecfc60%7C0%7C1%7C638965523997748064%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C40000%7C%7C%7C&sdata=hwu0K9wyRdBmVzf6iKUB3dngrOBjJpWLsKNCYWi8%2BMA%3D&reserved=0)](https://www.linkedin.com/in/aryan-khan-a0183526b/)">LinkedIn</a></li>
+  <li> Email: aryankhan78@hotmail.com</li>
+</ul>
+
+<hr>
+
+<p align="center">
+  <em>"The best way to predict the future is to invent it." – Alan Kay</em>
+</p>
