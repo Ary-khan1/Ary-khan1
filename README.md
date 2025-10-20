@@ -12,7 +12,7 @@ At Teesside University, I am a motivated student studying computer science and a
 
 
 
-<h2>Skills & Tools</h2>
+## Languages & Tools
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30"/>
