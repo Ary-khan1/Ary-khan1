@@ -34,7 +34,7 @@ At Teesside University, I am a motivated student studying computer science and a
 <br/>
 
 ### Safety Detection App
-<img src="https://via.placeholder.com/250x150?text=Safety+App" alt="Safety App" width="100%" style="border-radius: 8px; margin-bottom: 10px;">
+<img src="https://via.placeholder.com/250x150?text=Safety+App" alt="Safety App" width="50%" style="border-radius: 8px; margin-bottom: 10px;">
 <p>
  
 </p>
