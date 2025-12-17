@@ -30,6 +30,8 @@ At Teesside University, I am a motivated student studying computer science and a
 ### Self Driving Formula Car
 <p>Analyzed and programmed intelligent software for a Formula car to make autonomous decisions.</p>
  <br/>
+ <a  href = "https://github.com/Self-Driving-Formula-Car-Computing-Team"> Link to the Computing Team GitHub Organisation</a>
+ <br/>
 
 ### Safety Detection App
 <p> Designed a mobile app that safeguards devices and secures internal files against unauthorized access.</p>
