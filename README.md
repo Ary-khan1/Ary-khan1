@@ -33,7 +33,7 @@ At Teesside University, I am a motivated student studying computer science and a
  <br/>
 
 ### Safety Detection App
-<p> Designed a mobile app that safeguards devices and secures internal files against unauthorized access.</p>
+<p> Designed a mobile app that safeguards devices and secures internal files against unauthorised access.</p>
 <br/>
 
 
