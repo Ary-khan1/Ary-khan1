@@ -28,7 +28,7 @@ At Teesside University, I am a motivated student studying computer science and a
 
 ## Projects
 ### Self Driving Formula Car
-<p>Analyzed and programmed intelligent software for a Formula car to make autonomous decisions.</p>
+<p>Analysed and programmed intelligent software for a Formula car to make autonomous decisions.</p>
  <a  href = "https://github.com/Self-Driving-Formula-Car-Computing-Team"> Link to the Computing Team GitHub Organisation</a>
  <br/>
 
