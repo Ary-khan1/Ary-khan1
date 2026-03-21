@@ -27,6 +27,7 @@ At Teesside University, I am a motivated student studying computer science and a
   <img align="left" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="30"/>
   <img align="left" style="padding-right:10px;"   src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" width="30"/>
 
+<p>|</p>
 
   <img align="left" style="padding-right:10px;"   src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" width="30"/>
   <img align="left" style="padding-right:10px;"   src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png " alt="Linux" width="30"/>
