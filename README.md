@@ -30,7 +30,7 @@ At Teesside University, I am a motivated student studying computer science and a
   <img align="left" style="padding-right:10px;"   src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" width="30"/>
   <img align="left" style="padding-right:10px;"   src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png " alt="Linux" width="30"/>
 
-
+<br/>
 ## Projects
 ### Self Driving Formula Car
 <p>Analysed and programmed intelligent software for a Formula car to make autonomous decisions.</p>
